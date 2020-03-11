@@ -1,0 +1,14 @@
+{
+  "name": "blog1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon ./bin/server.js"
+  },
+  "author": "PYJ",
+  "license": "ISC",
+  "devDependencies": {
+    "cross-env": "^7.0.2"
+  }
+}
